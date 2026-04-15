@@ -8,5 +8,5 @@ Scrapes property listings from [propertysorted.com](https://www.propertysorted.c
 
 ## How it works
 
-1. **Phase 1** — Opens a browser, navigates buy/rent pages, and collects all listing URLs.
-2. **Phase 2** — Fetches each listing and extracts property details.
+**Phase 1** — Opens a browser, navigates buy/rent pages, and collects all listing URLs.
+**Phase 2** — Fetches each listing and extracts property details.
