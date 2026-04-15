@@ -1,5 +1,5 @@
 # PropertySorted Scraper
-Scrapes property listings from [propertysorted.com](https://www.propertysorted.com) and saves them to a CSV.
+Scrapes property listings from [propertysorted.com](https://www.propertysorted.com) and saves them to a CSV file.
 
 ## Output
 `propertysorted.csv` with columns: Link, Bedrooms, Bathrooms, Area_m2, Price_per_meter, Address, City, Location_1, Location_2, Unit, Type and Rent_Sale.
